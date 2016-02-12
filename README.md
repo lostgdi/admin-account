@@ -1,5 +1,7 @@
 ﻿# admin_account
 
-php artisan vendor:publish
-php artisan migrate:refresh
-php artisan db:seed
+Do not download and use, not finished yet.<BR><BR>
+
+php artisan vendor:publish<BR>
+php artisan migrate:refresh<BR>
+php artisan db:seed<BR>
