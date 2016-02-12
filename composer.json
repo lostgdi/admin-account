@@ -1,0 +1,16 @@
+{
+    "name": "lostgdi/admin",
+    "description": "A base administration system",
+    "authors": [
+        {
+            "name": "lostgdi",
+            "email": "lostgdi@gmail.com"
+        }
+    ],
+    "require": {}
+	"autoload": {
+        "psr-4": {
+            "Lostgdi\\Admin\\": "src/"
+        }
+    }
+}
