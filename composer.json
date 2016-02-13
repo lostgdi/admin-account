@@ -7,8 +7,8 @@
             "email": "lostgdi@gmail.com"
         }
     ],
-    "require": {}
-	"autoload": {
+    "require": {},
+    "autoload": {
         "psr-4": {
             "Lostgdi\\Admin\\": "src/"
         }
