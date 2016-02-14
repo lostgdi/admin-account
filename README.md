@@ -1,4 +1,7 @@
-﻿# admin-account
+﻿# admin-account for laravel 5
+
+<h1>Instruction</h1>
+<p>As we build our new project so often , We need a more convenient way to avoid these boring work for user managerment ,  such as: New , Modify , Delete. </p>
 
 <h1>Installation</h1>
 <ul>
