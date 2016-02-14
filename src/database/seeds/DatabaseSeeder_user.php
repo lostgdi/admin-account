@@ -31,7 +31,7 @@ class UserTableSeeder extends Seeder {
     }
 }
 
-class DatabaseSeeder extends Seeder
+class DatabaseSeeder_user extends Seeder
 {
     /**
      * Run the database seeds.
@@ -40,9 +40,8 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        // $this->call(UserTableSeeder::class);
+        //
 		Eloquent::unguard();
-
-        $this->call('UserTableSeeder');
+		$this->call('UserTableSeeder');
     }
 }
